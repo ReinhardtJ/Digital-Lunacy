@@ -41,12 +41,24 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
+  - name: bg_3
+    uniqueID: 1603465397
+    locked: 0
+  - name: bg_2
+    uniqueID: 3667595301
+    locked: 0
+  - name: bg_1
     uniqueID: 2527857787
     locked: 0
-  - name: Midground
+  - name: player
+    uniqueID: 4238990525
+    locked: 0
+  - name: mid
     uniqueID: 101513481
     locked: 0
-  - name: Forground
+  - name: fg_1
     uniqueID: 3083981323
+    locked: 0
+  - name: fg_2
+    uniqueID: 3447402945
     locked: 0
