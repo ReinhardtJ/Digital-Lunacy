@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class player_movement : MonoBehaviour {
+public class PlayerMovement : MonoBehaviour {
 
     // the player object this script is attached to 
     public GameObject player;
